@@ -1,21 +1,41 @@
-MIT License
+# Educational Use License
 
 Copyright (c) 2024 Sanjay Choudhary
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository has been created for educational and interview preparation purposes. Some problem statements and learning resources are derived from publicly available sources or belong to their respective owners.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Permissions
+
+You may:
+
+* View and study the contents of this repository.
+* Use the material for personal learning and interview preparation.
+* Fork the repository on GitHub for personal educational use.
+* Share a link to this repository.
+
+## Restrictions
+
+Without prior written permission from the repository owner, you may **not**:
+
+* Republish this repository or any substantial portion of its contents.
+* Copy the contents into another GitHub repository.
+* Include the contents in blogs, articles, newsletters, books, or other written publications.
+* Use the contents in YouTube videos, online courses, tutorials, or other educational media.
+* Sell, sublicense, or commercially distribute any part of this repository.
+* Present the material as your own work.
+
+## Attribution
+
+Where written permission has been granted for reuse, appropriate credit to the original repository and author must be provided.
+
+## Third-Party Content
+
+Problem statements, company names, trademarks, and references remain the property of their respective owners. Their inclusion is solely for educational and reference purposes and does not imply endorsement or affiliation.
+
+## Disclaimer
+
+This repository is an independent educational resource and is not affiliated with, sponsored by, or endorsed by Amazon or any other company mentioned herein.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
