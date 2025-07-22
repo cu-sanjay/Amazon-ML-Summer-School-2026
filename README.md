@@ -1,39 +1,49 @@
 <div align="center">
-  <img src="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2024/assets/96792511/38cb83ee-3638-4541-804a-f6534f49bf77" alt="Amazon Summer School 2024" width="500"/>
+  <img src="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2024/assets/96792511/38cb83ee-3638-4541-804a-f6534f49bf77" alt="Amazon Summer School Banner" width="500"/>
 </div>
+
 <div align="center">
+  <h1>Amazon ML Summer School 2025</h1>
 
-<h1>Amazon ML Summer School 2024</strong></h1>
+  <h3>One of the most hyped topics among students. If you're graduating in 2026 or 2027, don't miss this chance. Learn machine learning, connect with Amazon Scientists, and open interview doors.</h3>
 
-<h3>Here is the info about the most talked about topic among students. Wake up juniors and try this opportunity out - it's open for the 2025 and 2026 batches. Gain ML knowledge and interview opportunities at Amazon.</h3>
-
-[![Amazon ML Summer School](https://img.shields.io/badge/Amazon-ML%20Summer%20School-blue?style=for-the-badge&logo=amazon)](https://amazonmlsummerschoolindia.splashthat.com/)
-
+  [![Amazon ML Summer School](https://img.shields.io/badge/Amazon-ML%20Summer%20School-blue?style=for-the-badge&logo=amazon)](https://perfleap.com/AmazonMLSummerSchool25)
 </div>
+
+---
 
 ## About the Program
-Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills, which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. 
 
-After the successful third edition in 2023, the fourth edition of Amazon ML Summer School is being launched for students enrolled in any recognized institute in India and who are expected to graduate in 2025 or 2026.
+Amazon ML Summer School offers students a great opportunity to learn machine learning from Amazon's expert Scientists. It's a full-on course covering major ML topics and gives exposure to how ML works in real industries.
 
-### Key Takeaways:
-- **In-depth knowledge** on key ML topics from Amazon Scientists
-- **Platform to interact** with Scientists and learn about breakthrough innovations
-- **Opportunity to prepare** for a career in ML
+This version is designed for students graduating in **2026 or 2027** from any recognized institute in India.
 
-For more details, please visit [Amazon ML Summer School](https://amazonmlsummerschoolindia.splashthat.com/).
+### Key Highlights:
+- Learn **core ML topics** from experts  
+- Get a **chance to interact** with Amazon Scientists directly  
+- Prepare for **future career** in ML and interviews at Amazon  
 
-## Selection Test
-The selection test will have two parts:
-- **Part A:** 20 MCQs on basic ML concepts and math fundamentals covering topics such as probability, statistics, and linear algebra.
-- **Part B:** Two programming questions.
+For complete details, visit the [Official Program Page](https://perfleap.com/AmazonMLSummerSchool25)  
+To apply, fill the [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform)
 
-The overall test duration will be 75 minutes.
+---
 
-## Contents of the Repository
-- **[Programming Questions](Programming.md):** Two programming questions that will be part of the selection test.
-- **[MCQ Questions](MCQs.md):** Multiple Choice Questions (MCQs) asked in both ML and domain sections.
-- **[Summer School 2023 Questions](SummerSchool2023.md):** Questions from the 2023 ML Summer School for practice and reference.
+## Selection Test Format
+
+The test consists of two parts:
+
+- **Part A**: 20 MCQs covering machine learning basics, probability, statistics and linear algebra  
+- **Part B**: 2 programming questions
+
+🕒 Total Duration: 75 minutes
+
+---
+
+## Contents of this Repository
+
+- 📄 **[Programming Questions](Programming.md)**: Practice questions similar to the selection test  
+- 📄 **[MCQ Questions](MCQs.md)**: Commonly asked multiple choice questions from ML and related domains  
+- 📄 **[Summer School 2023 Questions](SummerSchool2023.md)**: PYQs from previous batch for reference and practice  
 
 ---
 
@@ -41,7 +51,20 @@ The overall test duration will be 75 minutes.
   <a href="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2024">
     <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repo"/>
   </a>
-  <a href="https://amazonmlsummerschoolindia.splashthat.com/">
+  <a href="https://perfleap.com/AmazonMLSummerSchool25">
     <img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=amazon" alt="Visit Website"/>
   </a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform">
+    <img src="https://img.shields.io/badge/Apply-Now-green?style=for-the-badge&logo=googleforms" alt="Apply Now"/>
+  </a>
 </div>
+
+---
+> [!NOTE]
+> All the PDFs and PYQs floating around online are copied from this repo. The exact same content is used again and again, mostly without giving proper credit. But it’s okay.. if it helps you prepare better, that's what matters. Just give your best in the assessment and make the most of this amazing resource.
+
+> [!IMPORTANT]
+> ⭐ **If you find this repository helpful, please consider starring it to help others discover it.**  
+
+> [!NOTE]  
+> 📘 This repository contains a basic guide to get started with **[Competitive Programming](https://github.com/cu-sanjay/Competitive-Programming)** — feel free to explore and share.
