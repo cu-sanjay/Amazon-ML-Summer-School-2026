@@ -75,16 +75,35 @@ The selection test consists of two parts:
 - **Aug 31st 2025** – Module 8: Reinforcement Learning *(Yet to be updated)*  
 
 <p align="center">
-  <a href="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2024">
-    <img src="https://img.shields.io/badge/GitHub%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
-  </a>
-  <a href="https://www.scaler.com/partnerships/amazon">
-    <img src="https://img.shields.io/badge/Visit%20Website-FF9900?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Website"/>
-  </a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform">
-    <img src="https://img.shields.io/badge/Apply%20Now-34C759?style=for-the-badge&logo=google-forms&logoColor=white" alt="Apply Now"/>
+  <!-- Study Material -->
+  <a href="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025">
+    <img 
+      src="https://img.shields.io/badge/PYQ's%2C%20Study%20Material%20and%20Modules-181717?style=plastic&logo=github&logoColor=white" 
+      alt="Study Material" 
+      style="width: 300px; height: auto; margin: 8px 0;" />
   </a>
 </p>
+
+<p align="center">
+  <!-- Learn More -->
+  <a href="https://www.scaler.com/partnerships/amazon">
+    <img 
+      src="https://img.shields.io/badge/Learn%20More%20about%20AMSS-4285F4?style=plastic&logo=googlechrome&logoColor=white&labelColor=DB4437&color=0F9D58" 
+      alt="Learn More" 
+      style="width: 300px; height: auto; margin: 8px 0;" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Apply Now Closed -->
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform">
+    <img 
+      src="https://img.shields.io/badge/Apply%20Now%20(CLOSED)-808080?style=plastic&logo=lock&logoColor=white" 
+      alt="Apply Now Closed" 
+      style="width: 300px; height: auto; margin: 8px 0;" />
+  </a>
+</p>
+
 
 > [!NOTE]
 > Many online PDFs and PYQs are sourced from this repository, often without credit. That’s fine, use these resources to prepare thoroughly and excel in the assessment.
