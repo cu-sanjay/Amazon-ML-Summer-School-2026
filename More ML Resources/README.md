@@ -50,7 +50,7 @@ where $\mathbf{w}$ is the weight vector, $b$ is the bias, $C$ is the regularizat
   - [Scikit-learn Documentation](https://scikit-learn.org/stable/) – Official documentation for Python’s core ML library.
   - [An Introduction to Statistical Learning](https://www.statlearning.com/) – Book by James et al. (2021).
   - [Model Evaluation Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html) – Scikit-learn’s guide to metrics.
-  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Géron (2022)](More%20ML%20Resources/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow,%202nd%20Edition.pdf)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Géron (2022)](Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow,%202nd%20Edition.pdf)
 
 ### 2. Deep Learning
 Deep learning leverages neural networks with multiple layers to model complex patterns. Frameworks like **[PyTorch](https://docs.pytorch.org/docs/stable/index.html)** and **[Fast.ai](https://www.fast.ai/)** simplify implementation.  
@@ -174,9 +174,14 @@ where $Y(1)$ and $Y(0)$ are outcomes under treatment and control.
 ## 📚 Additional Resources
 
 ### Books
-- *Deep Learning* by Goodfellow, Bengio, and Courville (2016) – [Click here](More%20ML%20Resources/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville.pdf)
-- *An Introduction to Statistical Learning* by James et al. (2021) – [Click here](More%20ML%20Resources/James%20G.%20et%20al.%202nd%20ed%20Springer%202021.pdf)
-- *Probabilistic Graphical Models* by Koller and Friedman (2009) – [Click here](More%20ML%20Resources/Probabilistic%20Graphical%20Models%20-%20Dafne%20Koller,%20Friedman%20(2009).pdf)
+
+- *Deep Learning* by Ian Goodfellow, Yoshua Bengio, and Aaron Courville (2016) – [View PDF](Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville.pdf)
+- *Elements of Causal Inference* by Jonas Peters, Dominik Janzing, Bernhard Schölkopf – [View PDF](Elements%20of%20Causal%20Inference%20-%20Peters%20Janzing%20Scholkopf%20-%20MIT%20Press.pdf)
+- *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow* (2nd Edition) – [View PDF](Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow,%202nd%20Edition.pdf)
+- *An Introduction to Statistical Learning* by Gareth James et al. (2021) – [View PDF](James%20G.%20et%20al.%202nd%20ed%20Springer%202021.pdf)
+- *Probabilistic Graphical Models* by Daphne Koller and Nir Friedman (2009) – [View PDF](Probabilistic%20Graphical%20Models-Dafne%20Koller,%20Friedman%20(2009).pdf)
+- *Reinforcement Learning: An Introduction* – [View PDF](Reinforcement%20Learning%20An%20Introduction.pdf)
+- *Transformers from Scratch* – [View PDF](TRANSFORMERS%20from%20SCRATCH.pdf)
 
 ### Courses
 - [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/) – Stanford University.
