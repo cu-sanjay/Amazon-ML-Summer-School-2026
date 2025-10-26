@@ -1,0 +1,67 @@
+# Amazon ML Summer School 2024 - MCQs
+
+This file contains previous year MCQs from the Amazon ML Summer School 2024.
+
+---
+
+## Module 1: Supervised Learning
+
+**Q1:** What is the main goal of supervised learning?  
+a) Find hidden patterns without labels  
+b) Predict output based on input-output pairs  
+c) Reduce dimensionality  
+d) Perform clustering  
+
+**Answer:** b) Predict output based on input-output pairs
+
+**Q2:** Which of the following is a regression algorithm?  
+a) Linear Regression  
+b) K-Means  
+c) DBSCAN  
+d) PCA  
+
+**Answer:** a) Linear Regression
+
+---
+
+## Module 2: Deep Neural Networks
+
+**Q1:** What activation function is commonly used in hidden layers of deep networks?  
+a) Sigmoid  
+b) ReLU  
+c) Linear  
+d) Step function  
+
+**Answer:** b) ReLU
+
+**Q2:** What is the main purpose of dropout in neural networks?  
+a) Increase network size  
+b) Prevent overfitting  
+c) Improve training speed  
+d) Normalize data  
+
+**Answer:** b) Prevent overfitting
+
+---
+
+## Module 3: Dimensionality Reduction
+
+**Q1:** Which technique is commonly used for dimensionality reduction?  
+a) PCA  
+b) KNN  
+c) SVM  
+d) Linear Regression  
+
+**Answer:** a) PCA
+
+**Q2:** What is the primary goal of dimensionality reduction?  
+a) Increase features  
+b) Reduce overfitting and computation  
+c) Improve clustering  
+d) Generate labels  
+
+**Answer:** b) Reduce overfitting and computation
+
+---
+
+*(You can continue adding other modules and questions similarly.)*
